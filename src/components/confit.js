@@ -1,1 +1,1 @@
-export const HOST="https://api.weatherapi.com/v1/current.json?key=7ba256fec51b4f92a4954158230511&";
+export const HOST="https://api.weatherapi.com/v1/current.json?key=8c06d34e32474e00b9474902231811&";
