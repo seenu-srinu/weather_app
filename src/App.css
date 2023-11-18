@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.heading{
+  font-family:"Roboto";
+  color: aqua;
+  padding: "12px";
+  margin: "12px";
+}
+
+.button{
+  background-color: aqua;
+}
